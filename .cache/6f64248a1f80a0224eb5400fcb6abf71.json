@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./_shared","loc":{"line":1,"column":25}}],"generated":{"js":"module.exports = require('./_shared')('native-function-to-string', Function.toString);\n"},"hash":"869e227061033f86eee53b1f9c790064"}

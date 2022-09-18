@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./_regexp-exec","loc":{"line":2,"column":25}},{"name":"./_export","loc":{"line":3,"column":8}}],"generated":{"js":"'use strict';\nvar regexpExec = require('./_regexp-exec');\nrequire('./_export')({\n  target: 'RegExp',\n  proto: true,\n  forced: regexpExec !== /./.exec\n}, {\n  exec: regexpExec\n});\n"},"hash":"914b442f99c4c41e9d5779d3e1482be8"}

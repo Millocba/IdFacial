@@ -1,0 +1,1 @@
+{"dependencies":[],"generated":{"js":"\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nvar CELL_STRIDE = exports.CELL_STRIDE = 2;\nvar CELL_SIZE = exports.CELL_SIZE = 12;\n//# sourceMappingURL=config.js.map"},"hash":"9126b8ee1752c8f7aa2f78e7fed36192"}
